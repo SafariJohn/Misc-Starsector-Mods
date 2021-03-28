@@ -1,0 +1,11 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/SafariJohn/Hostile-Intercept/master/HostileIntercept.version",
+    "modName":"Hostile Intercept (and Autopause!)",
+    "modThreadId":18909,
+    "modVersion":
+    {
+        "major":1,
+        "minor":3,
+        "patch":2
+    }
+}
